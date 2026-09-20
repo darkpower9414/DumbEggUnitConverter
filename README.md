@@ -2,6 +2,10 @@
 
 一個使用 HTML、CSS 與 JavaScript 製作的簡易單位換算網站。
 
+## Live Demo
+
+[Open DumbEgg Unit Converter](https://darkpower9414.github.io/DumbEggUnitConverter/)
+
 ## Features
 
 - 長度換算
