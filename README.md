@@ -1,4 +1,4 @@
-# Dumb Egg Unit Converter
+# DumbEgg Unit Converter
 
 一個使用 HTML、CSS 與 JavaScript 製作的簡易單位換算網站。
 本專案為就讀國立臺北護理健康大學期間，「多媒體製作與應用」課程之期末作業。
